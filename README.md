@@ -6,6 +6,10 @@ Ce projet a été développé lors du hackathon "Startups à l'École" en collab
 
 Nous avons créé une Preuve de Concept (POC) d'une application web qui permet aux utilisateurs d'enregistrer de l'audio et de voir la transcription apparaître en direct, quasi instantanément.
 
+      
+![Page de connexion de l'application](https://raw.githubusercontent.com/drewano/agoranov-hackathon/main/connexion.png)
+
+
 ## Fonctionnalités Clés
 
 *   **Authentification utilisateur** (Inscription/Connexion via Supabase Auth).
